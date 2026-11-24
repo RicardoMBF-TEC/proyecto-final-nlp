@@ -1,0 +1,8 @@
+torch
+numpy
+pandas
+matplotlib
+transformers>=5,<6
+huggingface-hub>=1.32,<2
+sentencepiece
+sacrebleu
